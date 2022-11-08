@@ -57,6 +57,5 @@ stevedore==4.0.0
 tzdata==2022.2
 urllib3==1.26.12
 Werkzeug==2.2.2
-WMI==1.5.1
 wrapt==1.14.1
 zope.interface==5.4.0
