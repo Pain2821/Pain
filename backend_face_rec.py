@@ -13,10 +13,10 @@ app = Flask(__name__)
 #route http post to this method
 # print ('abc')
 
-@app.route('/', methods=['GET'])
+# @app.route('/', methods=['GET'])
 
-def home():
-   return 'Hello'
+# def home():
+#    return 'Hello'
 
 @app.route('/image', methods=['POST'])
 def image():
